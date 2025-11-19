@@ -1,2 +1,2 @@
-# HTML-CSS-JAVASCRIPT-PROJECT
+Frontend project <br>
 This is my Amazon clone project
